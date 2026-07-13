@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,50:38bdf8,100:0284c7&height=230&section=header&text=Hi%20There%2C%20I'm%20Rehan%20Khan%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20@%20Chandigarh%20University%20•%20AI%20/%20ML&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,50:38bdf8,100:0284c7&height=230&section=header&text=Mohd%20Rehan%20Khan&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20AI%2FML%20Engineer%20•%20Data%20Science%20Enthusiast%20•%20B.E.%20CSE%20(AI%20%26%20ML)%2C%20Chandigarh%20University&descAlignY=58&descSize=15"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+ML-powered+web+apps+%F0%9F%9A%80;Exploring+Predictive+Modeling+%26+MLOps;Python+%7C+C%2B%2B+%7C+SQL+%7C+DSA;Tracking+experiments+with+MLFlow;Turning+raw+data+into+decisions+%F0%9F%93%8A&font=Fira+Code&center=true&width=650&height=50&color=7dd3fc&vCenter=true&size=23&pause=1200" alt="Typing SVG" />
@@ -18,8 +18,9 @@
 ### 🧠 Who I Am
 
 ```typescript
-const rehanKhan = {
-  title: "CS Student @ Chandigarh University — AI / ML",
+const mohdRehanKhan = {
+  title: "Aspiring AI/ML Engineer & Data Science Enthusiast",
+  education: "B.E. CSE (AI & ML), Chandigarh University — CGPA 7.7 (Jul 2024 – Present)",
   stack: {
     machineLearning: [
       "Data Preprocessing",
@@ -44,14 +45,32 @@ const rehanKhan = {
       "Business Analytics",
     ],
   },
-  launchedProjects: ["HealthcarePremiumPrediction", "CreditRiskModel"],
-  certifications: [
-    "Pursuing: AWS Cloud Practitioner → AWS AI Practitioner → AWS ML Engineer Associate",
+  launchedProjects: [
+    "HealthcarePremiumPrediction",
+    "CreditRiskModel",
+    "ExpenseTrackingSystem",
   ],
-  status: "Actively building ML/AI projects and leveling up through certifications",
-  openTo: ["Open-source collaboration", "ML/AI projects", "Learning opportunities"],
+  certifications: [
+    "Foundations of AI and Machine Learning — Microsoft (Jan 2025)",
+    "Python for Data Science, AI & Development — IBM (Oct 2024)",
+    "Fundamentals of Deep Learning — Nvidia (Jul 2025)",
+    "SQL for Data Science — Codebasics",
+  ],
+  status: "Virtual Data Science Intern @ Codebasics (May–Jun 2026) — building ML/AI projects",
+  openTo: ["Open-source collaboration", "ML/AI projects", "Internships", "Learning opportunities"],
 };
 ```
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+### 💼 Experience
+
+**Virtual Data Science Intern** — Codebasics *(May 2026 – Jun 2026, Virtual)*
+- Completed a hands-on virtual internship in Data Science, Machine Learning, and Analytics
+- Built end-to-end data analysis and ML projects using Python, Pandas, NumPy, and Scikit-Learn
+- Performed data cleaning, EDA, feature engineering, and model evaluation on real-world datasets
+- Developed interactive dashboards and web applications for data-driven decision-making
+- Gained hands-on exposure to MLflow and DagsHub for experiment tracking and model versioning
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
@@ -93,6 +112,23 @@ Assesses credit risk to determine loan approval — explore the repo for the ful
 🔗 **[Code](https://github.com/rehan12360/CreditRiskModel)**
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4>💰 Expense Tracking System</h4>
+
+A Python-based expense tracker to monitor and categorize daily expenses, record transactions, and surface spending trends through data visualization for better financial decisions.
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Focus | Data Visualization, Data Analysis |
+
+🔗 **Code: _link pending_**
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
