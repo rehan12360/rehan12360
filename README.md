@@ -1,19 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0284c7&height=220&section=header&text=Rehan%20Khan&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20@%20Chandigarh%20University%20|%20AI%20/%20ML&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,50:38bdf8,100:0284c7&height=230&section=header&text=Hi%20There%2C%20I'm%20Rehan%20Khan%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20@%20Chandigarh%20University%20•%20AI%20/%20ML&descAlignY=55&descSize=20"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+ML-powered+web+apps;Exploring+Predictive+Modeling+%26+MLOps;Python+%7C+C%2B%2B+%7C+SQL+%7C+DSA;Tracking+experiments+with+MLFlow+%26+DagsHub;Turning+data+into+decisions&font=Fira+Code&center=true&width=600&height=45&color=7dd3fc&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+ML-powered+web+apps+%F0%9F%9A%80;Exploring+Predictive+Modeling+%26+MLOps;Python+%7C+C%2B%2B+%7C+SQL+%7C+DSA;Tracking+experiments+with+MLFlow;Turning+raw+data+into+decisions+%F0%9F%93%8A&font=Fira+Code&center=true&width=650&height=50&color=7dd3fc&vCenter=true&size=23&pause=1200" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rehan12360&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/rehan12360?color=7dd3fc&style=for-the-badge&label=FOLLOWERS&labelColor=black)
+<img src="https://komarev.com/ghpvc/?username=rehan12360&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/rehan12360?color=7dd3fc&style=for-the-badge&label=FOLLOWERS&labelColor=black"/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 </div>
-
----
 
 ### 🧠 Who I Am
 
@@ -53,109 +53,112 @@ const rehanKhan = {
 };
 ```
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ### 🚀 Featured Projects
 
-#### 🩺 Healthcare Premium Prediction
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A Machine Learning-based web app that predicts health insurance costs based on user inputs such as age, BMI, medical history, smoking status, and more — with a clean, responsive UI built using Streamlit.
+<h4>🩺 Healthcare Premium Prediction</h4>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rehan12360&repo=HealthcarePremiumPrediction&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="HealthcarePremiumPrediction"/>
-</div>
+A Machine Learning web app that predicts health insurance costs from age, BMI, medical history, smoking status, and more — with a clean, responsive Streamlit UI.
 
-| Layer            | Technology              |
-|-------------------|--------------------------|
-| Language          | Python                   |
-| ML                | Predictive Modeling, Feature Engineering |
-| Interface         | Streamlit                |
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rehan12360&repo=HealthcarePremiumPrediction&theme=nord&border_color=7dd3fc&title_color=7dd3fc&bg_color=0d1117"/>
 
-🔗 [Code](https://github.com/rehan12360/HealthcarePremiumPrediction)
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| ML | Predictive Modeling, Feature Engineering |
+| Interface | Streamlit |
 
-<br/>
+🔗 **[Code](https://github.com/rehan12360/HealthcarePremiumPrediction)**
 
-#### 💳 Credit Risk Model
+</td>
+<td width="50%" valign="top">
+
+<h4>💳 Credit Risk Model</h4>
 
 Assesses credit risk to determine loan approval — explore the repo for the full modeling pipeline.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rehan12360&repo=CreditRiskModel&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="CreditRiskModel"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rehan12360&repo=CreditRiskModel&theme=nord&border_color=7dd3fc&title_color=7dd3fc&bg_color=0d1117"/>
 
-| Layer            | Technology              |
-|-------------------|--------------------------|
-| Language          | Python                   |
-| ML                | Predictive Modeling, Model Evaluation |
-| Data              | Feature Engineering, EDA |
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| ML | Predictive Modeling, Model Evaluation |
+| Data | Feature Engineering, EDA |
 
-🔗 [Code](https://github.com/rehan12360/CreditRiskModel)
+🔗 **[Code](https://github.com/rehan12360/CreditRiskModel)**
 
----
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ### 🛠️ Tech Stack
 
 **Languages & Core Tools**
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github" />
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github&perline=5" />
+</p>
 
 **MLOps & AI Tooling**
 
-<div align="center">
-
-![MLFlow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DagsHub](https://img.shields.io/badge/DagsHub-1D1D1F?style=for-the-badge&logo=dagshub&logoColor=white)
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/DagsHub-2F3640?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Experiment_Tracking-7dd3fc?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/CI%2FCD_for_ML-0284c7?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
 **Data Analytics**
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-</div>
-
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rehan12360&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&bg_color=0d1117" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan12360&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&bg_color=0d1117" height="170"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rehan12360&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan12360&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=rehan12360&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=rehan12360&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&background=0d1117"/>
+</p>
 
 ### 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rehan12360&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rehan12360&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+</p>
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan12360&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph"/>
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan12360&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc"/>
+</p>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ### 🔗 Connect With Me
 
-<div align="center">
+<p align="center">
+<a href="https://www.linkedin.com/in/mdrehankhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mrehankhan1208@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://codolio.com/profile/Rehan_khan_1208"><img src="https://img.shields.io/badge/Codolio-7dd3fc?style=for-the-badge&logoColor=black"/></a>
+<a href="https://leetcode.com/u/RKcoder1208/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdrehankhan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrehankhan1208@gmail.com)
-[![Codolio](https://img.shields.io/badge/Codolio-7dd3fc?style=for-the-badge&logo=codeforces&logoColor=black)](https://codolio.com/profile/Rehan_khan_1208)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RKcoder1208/)
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0284c7,50:38bdf8,100:7dd3fc&height=120&section=footer&animation=twinkling"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0284c7,100:7dd3fc&height=120&section=footer&animation=twinkling"/>
